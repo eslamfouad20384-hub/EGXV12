@@ -37,17 +37,17 @@ EGX100 = [
     "SUGR.CA", "POUL.CA", "DOMT.CA", "ISMA.CA", "UEGC.CA", "ADCI.CA",
     "OLFI.CA", "SKPC.CA", "AMER.CA", "TALM.CA", "INFI.CA",
     "ORWE.CA", "SPMD.CA", "ZMID.CA", "MENA.CA", "DAPH.CA", "SIPC.CA",
-    "RAYA.CA", "EGAL.CA", "ECAP.CA", "MPRC.CA", "KASB.CA",
-    "NCCW.CA", "SCEM.CA", "ARAB.CA", "GDWA.CA", "ELEC.CA", "BNYA.CA",
+    "RAYA.CA", "EGAL.CA", "ECAP.CA", "MPRC.CA", 
+    "NCCW.CA", "SCEM.CA", "ARAB.CA", "GDWA.CA", "ELEC.CA",
     "IRON.CA", "ATQA.CA", "EGCH.CA", "ALCN.CA",
     "MPCO.CA", "ELSH.CA", "MEPA.CA", "ODIN.CA", "EGAS.CA",
     "RACC.CA", "PRCL.CA", "BINV.CA", "EDBM.CA", "MCQE.CA", "PRMH.CA",
-    "MOIL.CA", "NIPH.CA", "ISPH.CA", "DICE.CA",
+    "MOIL.CA", "NIPH.CA", "ISPH.CA",
     "UNIT.CA", "PHAR.CA", "TRTO.CA", "OIH.CA",
-    "ICFC.CA", "ELKA.CA", "NILE.CA", "AIDC.CA",
-    "ATLC.CA", "COSG.CA", "MEDA.CA", "AMPI.CA", "COPR.CA", "SAIB.CA",
+    "ICFC.CA", "ELKA.CA", 
+    "ATLC.CA", "COSG.CA", "AMPI.CA", "COPR.CA", "SAIB.CA",
     # Added strong / strategic coverage candidates
-    "CLHO.CA", "EFIH.CA", "MTIE.CA", "BTFH.CA", "ACTF.CA"
+    "CLHO.CA", "EFIH.CA", "MTIE.CA", "BTFH.CA",
 ]
 
 EGX100 = list(dict.fromkeys(EGX100))
